@@ -7,7 +7,7 @@ Taylor Swift, since her debut in 2006, has gone through many changes in her musi
 
 The first aspect of the albums I decided to look at was the total number of words used as well as the number of unique words used. Before looking into this, I removed 'stop words'. These are words that are not considered useful to word analysis such as a, the, and for. This was completed using the nltk.corpus library in Python. 
 
-![Alt text](/Images/Word_Usage_Comparison.png)
+![Alt text](Taylor_Swift/Images/Word_Usage_Comparison.png)
   
   
 In 'folklore', about 61% of the total words in the album were unique words compared to 'Taylor Swift' where only about 49% of the total words in the album were unique words. This is clear in the above visualization where you can see the average total number of words between the two albums does not differ by much, however, the number of unique words is noticeably higher in 'folklore'. 
