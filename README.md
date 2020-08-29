@@ -19,12 +19,12 @@ I was also interested in the looking if certain words were used more frequently 
 
 For 'folklore', the 25 most used words were as follows:
 
-![alt-text-1](/Images/folklore_top_1_12.png.png) ![alt-text-2](/Images/folklore_top_13_25.png.png)
+![alt-text-1](/Images/folklore_top_1_12.png) ![alt-text-2](/Images/folklore_top_13_25.png)
   
   
 For 'Taylor Swift', the top 25 most used words are as follows:
 
-![alt-text-1](/Images/TS_top_1_12.png.png) ![alt-text-2](/Images/TS_top_13_25.png)
+![alt-text-1](/Images/TS_top_1_12.png) ![alt-text-2](/Images/TS_top_13_25.png)
 
   
 Interestingly, the word 'oh' is the second most used word in Taylor Swift's debut album, 'Taylor Swift'. In her most recent album, 'oh' does not even make it as one of the top 25 most used words, showing the increase in maturity within her lyrics between the two albums. 
